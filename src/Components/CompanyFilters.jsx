@@ -34,38 +34,26 @@ export default function CompanyFilters() {
                      hover:shadow-md focus:ring-2 focus:ring-indigo-300 outline-none transition-all"
         >
           <option value="All">All Locations</option>
+<option value="California">California</option>
 <option value="India">India</option>
-<option value="United States">United States</option>
-<option value="United Kingdom">United Kingdom</option>
+<option value="Texas">Texas</option>
 <option value="Canada">Canada</option>
 <option value="Australia">Australia</option>
-<option value="Germany">Germany</option>
-<option value="France">France</option>
+<option value="New York">New York</option>
+<option value="Berlin">Berlin</option>
 <option value="Singapore">Singapore</option>
+<option value="London">London</option>
+<option value="Dubai">Dubai</option>
 <option value="Japan">Japan</option>
-<option value="China">China</option>
-<option value="South Korea">South Korea</option>
-<option value="Brazil">Brazil</option>
-<option value="Mexico">Mexico</option>
-<option value="Spain">Spain</option>
-<option value="Italy">Italy</option>
-<option value="UAE">UAE</option>
-<option value="Saudi Arabia">Saudi Arabia</option>
-<option value="South Africa">South Africa</option>
-<option value="Netherlands">Netherlands</option>
 <option value="Sweden">Sweden</option>
-<option value="Norway">Norway</option>
-<option value="Denmark">Denmark</option>
-<option value="Switzerland">Switzerland</option>
-<option value="Ireland">Ireland</option>
-<option value="Russia">Russia</option>
+<option value="San Francisco">San Francisco</option>
+<option value="Chicago">Chicago</option>
+<option value="Amsterdam">Amsterdam</option>
+<option value="Israel">Israel</option>
+<option value="Boston">Boston</option>
+<option value="UK">UK</option>
 <option value="Malaysia">Malaysia</option>
-<option value="Indonesia">Indonesia</option>
-<option value="New Zealand">New Zealand</option>
-<option value="Philippines">Philippines</option>
-<option value="Bangladesh">Bangladesh</option>
-<option value="Pakistan">Pakistan</option>
-<option value="Sri Lanka">Sri Lanka</option>
+
 
         </select>
       </div>
@@ -81,30 +69,32 @@ export default function CompanyFilters() {
         >
         <option value="All">All Industries</option>
 <option value="Technology">Technology</option>
-<option value="Information Technology">Information Technology</option>
-<option value="Software Development">Software Development</option>
+<option value="IT Services">IT Services</option>
 <option value="AI & Machine Learning">AI & Machine Learning</option>
-<option value="Cybersecurity">Cybersecurity</option>
-<option value="Cloud Computing">Cloud Computing</option>
-<option value="Data Analytics">Data Analytics</option>
-<option value="E-Commerce">E-Commerce</option>
+<option value="Software Services">Software Services</option>
 <option value="Fintech">Fintech</option>
+<option value="Cloud Computing">Cloud Computing</option>
+<option value="Cybersecurity">Cybersecurity</option>
+<option value="Digital Services">Digital Services</option>
 <option value="EdTech">EdTech</option>
-<option value="HealthTech">HealthTech</option>
-<option value="Telecommunications">Telecommunications</option>
-<option value="Digital Marketing">Digital Marketing</option>
-<option value="Media & Advertising">Media & Advertising</option>
-<option value="BPO & Outsourcing">BPO & Outsourcing</option>
-<option value="SaaS Services">SaaS Services</option>
-<option value="Consulting">Consulting</option>
-<option value="Retail">Retail</option>
-<option value="Manufacturing">Manufacturing</option>
-<option value="Robotics">Robotics</option>
 <option value="Automation">Automation</option>
-<option value="Logistics">Logistics</option>
+<option value="Data Analytics">Data Analytics</option>
+<option value="Network Solutions">Network Solutions</option>
+<option value="Software Consulting">Software Consulting</option>
+<option value="Media & Advertising">Media & Advertising</option>
+<option value="Hardware Solutions">Hardware Solutions</option>
 <option value="Green Energy">Green Energy</option>
-<option value="IoT">Internet of Things (IoT)</option>
-<option value="Blockchain">Blockchain</option>
+<option value="Cloud Services">Cloud Services</option>
+<option value="AI Research">AI Research</option>
+<option value="E-Commerce">E-Commerce</option>
+<option value="Metaverse">Metaverse</option>
+<option value="Robotics">Robotics</option>
+<option value="SaaS">SaaS</option>
+<option value="IoT">IoT</option>
+<option value="BPO">BPO</option>
+<option value="Retail">Retail</option>
+<option value="Tech Services">Tech Services</option>
+<option value="Logistics">Logistics</option>
 
         </select>
       </div>
