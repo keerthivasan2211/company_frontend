@@ -18,7 +18,7 @@ export const CompanyProvider = ({ children }) => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const res = await fetch("http://localhost:5000/api/companies");
+        const res = await fetch("https://company-api-ehre.onrender.com");
         const data = await res.json();
 
         setCompanies(data);
